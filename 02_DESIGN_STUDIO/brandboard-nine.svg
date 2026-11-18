@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="720" viewBox="0 0 1000 720">
+  <rect width="1000" height="720" fill="#F2F6FF"/>
+  <rect x="0" y="0" width="1000" height="6" fill="#2563EB"/>
+  <text x="60" y="66" font-family="Arial" font-size="13" letter-spacing="4" fill="#2563EB">
+    BRAND BOARD · LUMEN</text>
+  <line x1="60" y1="82" x2="940" y2="82" stroke="#385a9f" stroke-opacity="0.15"/>
+  <image x="60" y="120" width="180" height="180" href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3czLm9yZyIgdmlld0JveD0iMCAwIDEyMCAxMjAiIGZpbGw9Im5vbmUiIHByZXNlcnZlQXNwZWN0UmF0aW89InhNaWRZTWlkIG1lZXQiPgogIDxyZWN0IHdpZHRoPSIxMjAiIGhlaWdodD0iMTIwIiByeD0iMjQiIGZpbGw9IiMxMTE4MjciLz4KICA8cGF0aCBkPSJNNzQgNTJDNzQgNjMuMDQ1NyA2NS4wNDU3IDcyIDU0IDcyQzQyLjk1NDMgNzIgMzQgNjMuMDQ1NyAzNCA1MkMzNCA0MC45NTQzIDQyLjk1NDMgMzIgNTQgMzJDNjUuMDQ1NyAzMiA3NCA0MC45NTQzIDc0IDUyWk03NCA1MlY3MEM3NCA4MS4wNDU3IDY1LjA0NTcgOTAgNTQgOTBINDQiIHN0cm9rZT0iIzM4QkRGOCIgc3Ryb2tlLXdpZHRoPSIxMCIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIi8+Cjwvc3ZnPg=="/>
+  <text x="280" y="180" font-family="Arial" font-size="52" font-weight="bold" fill="#385a9f">nine</text>
+  <text x="280" y="218" font-family="Arial" font-size="16" fill="#385a9f" opacity="0.65">Музыкальный стриминг и студия звукозаписи</text>
+  <text x="280" y="252" font-family="Arial" font-size="13" fill="#385a9f" opacity="0.5">
+    Плотный дисплейный / Геометричный гротеск</text>
+  <text x="60" y="360" font-family="Arial" font-size="13" letter-spacing="3" fill="#385a9f" opacity="0.55">ПАЛИТРА</text>
+  <rect x="60" y="380" width="160" height="96" rx="12" fill="#2563EB"/>
+    <text x="74" y="456" font-family="Arial" font-size="12" fill="#ffffff">#2563EB</text><rect x="236" y="380" width="160" height="96" rx="12" fill="#0EA5E9"/>
+    <text x="250" y="456" font-family="Arial" font-size="12" fill="#0b0f14">#0EA5E9</text><rect x="412" y="380" width="160" height="96" rx="12" fill="#22D3EE"/>
+    <text x="426" y="456" font-family="Arial" font-size="12" fill="#0b0f14">#22D3EE</text><rect x="588" y="380" width="160" height="96" rx="12" fill="#385a9f"/>
+    <text x="602" y="456" font-family="Arial" font-size="12" fill="#ffffff">#385A9F</text><rect x="764" y="380" width="160" height="96" rx="12" fill="#F2F6FF"/>
+    <text x="778" y="456" font-family="Arial" font-size="12" fill="#0b0f14">#F2F6FF</text>
+  <text x="60" y="536" font-family="Arial" font-size="13" letter-spacing="3" fill="#385a9f" opacity="0.55">ТИПОГРАФИКА</text>
+  <rect x="60" y="552" width="880" height="110" rx="14" fill="#385a9f" opacity="0.06"/>
+  <text x="84" y="606" font-family="Arial" font-size="34" font-weight="bold" fill="#385a9f">
+    nine - Aa Бб Вв</text>
+  <text x="84" y="638" font-family="Arial" font-size="14" fill="#385a9f" opacity="0.6">
+    Плотный дисплейный - заголовки; Геометричный гротеск - текст.</text>
+  <text x="60" y="700" font-family="Arial" font-size="11" fill="#385a9f" opacity="0.4">
+    DESIGN STUDIO · заказ #955</text>
+</svg>
